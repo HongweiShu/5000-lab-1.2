@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Lab1.2",
+    "section": "",
+    "text": "#table of contents 1.h1h2h3 2.draw table 3.LaTex equation inline & non inline 4.Footnote 5.quote 6.two images 7.one video 8.Mermaid 9.citation from bib file\n\\(x^2 + y^2 = z^2\\)\n\\[\na^2 = b^2\n\\]\nThis is a sentence showing footnote.1\nvideo\nflowchart LR\n  A[Hard edge] --&gt; B(Round edge)\n  B --&gt; C{Decision}\n  C --&gt; D[Result one]\n  C --&gt; E[Result two]\n(Carr 2003)"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "Lab1.2",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nFoooooooooootnote.↩︎"
+  },
+  {
+    "objectID": "slides/slide.html#getting-up",
+    "href": "slides/slide.html#getting-up",
+    "title": "Habits",
+    "section": "Getting up",
+    "text": "Getting up\n\nTurn off alarm\nGet out of bed"
+  },
+  {
+    "objectID": "slides/slide.html#going-to-sleep",
+    "href": "slides/slide.html#going-to-sleep",
+    "title": "Habits",
+    "section": "Going to sleep",
+    "text": "Going to sleep\n\nGet in bed\nCount sheep"
+  },
+  {
+    "objectID": "slides/slide.html#rd-page",
+    "href": "slides/slide.html#rd-page",
+    "title": "Lab",
+    "section": "3rd page",
+    "text": "3rd page\n-Hello world"
+  },
+  {
+    "objectID": "slides/slide.html#st-page",
+    "href": "slides/slide.html#st-page",
+    "title": "Lab",
+    "section": "1st page",
+    "text": "1st page\n\nHello"
+  },
+  {
+    "objectID": "slides/slide.html#page",
+    "href": "slides/slide.html#page",
+    "title": "Lab",
+    "section": "2page",
+    "text": "2page\n\nThis is 2nd page"
+  },
+  {
+    "objectID": "slides/slide.html#new-page",
+    "href": "slides/slide.html#new-page",
+    "title": "Lab",
+    "section": "New page",
+    "text": "New page"
+  }
+]
